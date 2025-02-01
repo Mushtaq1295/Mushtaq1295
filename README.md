@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Mushtaq1295-
-=======
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mushtaq1295.Mushtaq1295" />
 
