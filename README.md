@@ -1,5 +1,3 @@
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mushtaq1295.Mushtaq1295" />
 
 <h1 align="center">🔥 Welcome to My Code Shed! 🔥</h1>
@@ -117,5 +115,3 @@ A memory-based game coded with **HTML**, **CSS**, and **JavaScript**. It was a g
 > I’m just getting started on my journey to becoming an **S-rank developer**. Thanks for exploring my dungeon, and remember — _I alone will level up!_ 💪
 > <br>
 > Jk Let's level up together! 😉
->>>>>>> 9a6a732 (my det added)
->>>>>>> b2f948a (new one)
